@@ -2,7 +2,7 @@
 - 👀 I’m interested in internships
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Mail Id : anuradhabachhav2001@gmail.com
 
 <!---
 anuradhabachhav200/anuradhabachhav200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
